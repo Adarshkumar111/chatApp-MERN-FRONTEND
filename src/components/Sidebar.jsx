@@ -67,9 +67,10 @@ const Sidebar = ({ selectedUser, setSelectedUser }) => {
           </div>
         ))}
       </div>
-      
+
     </div>
   );
 };
 
 export default Sidebar;
+
